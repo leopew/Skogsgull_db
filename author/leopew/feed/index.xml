@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>leopew &#8211; Skogsgull</title>
+	<atom:link href="/https://leopew.github.io/Skogsgull_db/author/leopew/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://leopew.github.io/Skogsgull_db</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 13 Apr 2021 11:52:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/https://leopew.github.io/Skogsgull_db/2021/04/13/hello-world/</link>
+					<comments>/https://leopew.github.io/Skogsgull_db/2021/04/13/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[leopew]]></dc:creator>
+		<pubDate>Tue, 13 Apr 2021 11:52:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/https://leopew.github.io/Skogsgull_db/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://leopew.github.io/Skogsgull_db/2021/04/13/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
